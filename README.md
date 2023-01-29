@@ -39,6 +39,9 @@
 <a href="https://www.linkedin.com/in/jd-technology-485834228/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin-linkedin-blue?style=for-the-badge&labelColor=0076b3&logo=linkedin&logoColor=white"/></a></div>
 <a href="https://t.me/DanielRodri87"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
+
+
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
