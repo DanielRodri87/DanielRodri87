@@ -1,8 +1,8 @@
 ﻿## Olá, meu nome é <strong>Daniel!</strong>👋
 
-> 3º ano do ensino médio com técnico integrado em informática para internet.
+> Técnico em informática para internet - IFPI CAPAU;
 
-🔭 Atualmente estudando ferramentas de programação e desenvolvimentos de sites
+🔭 Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
 
 ----
 
