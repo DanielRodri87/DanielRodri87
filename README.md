@@ -2,7 +2,9 @@
 
 > Técnico em informática para internet - IFPI CAPAU;
 
-🔭 Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
+> Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
+
+🔭 Atualmente focando no framework Djando e em desenvolvimentos mobile com o Flutter
 
 ----
 
