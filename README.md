@@ -4,7 +4,7 @@
 
 > Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
 
-🔭 Atualmente focando no framework Djando e em desenvolvimentos mobile com o Flutter
+🔭 Atualmente estudando a linguagem C
 
 ----
 
@@ -29,11 +29,12 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=dracula"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielrodri87&theme=dracula"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula">
 
-  <img src="https://forums-images.oneplus.net/data/webimg/2021/01-29/6014374e3a762.gif" width="120"><img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80"><img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80"><img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80"><img src="https://forums-images.oneplus.net/data/webimg/2021/01-29/6014374e3a762.gif" width="120">
-</div>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 ---
 ##  ⭐ Opções de Contato
@@ -41,10 +42,3 @@
 <a href="https://www.linkedin.com/in/jd-technology-485834228/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin-linkedin-blue?style=for-the-badge&labelColor=0076b3&logo=linkedin&logoColor=white"/></a></div>
 <a href="https://t.me/DanielRodri87"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
-
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
-</p>
