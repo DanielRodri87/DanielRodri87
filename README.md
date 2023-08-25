@@ -4,7 +4,7 @@
 
 > Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
 
-🔭 Atualmente estudando a linguagem C
+🔭 Atualmente estudando a linguagem C - Projetos e Desafios do Beecrowd
 
 ----
 
