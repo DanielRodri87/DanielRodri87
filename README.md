@@ -29,7 +29,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielrodri87&theme=dracula"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&hide=html&layout=compact&theme=dracula">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&theme=dracula"><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&hide=html&layout=compact&theme=dracula">
 
 <p align="center"> 
   Visitor count<br>
