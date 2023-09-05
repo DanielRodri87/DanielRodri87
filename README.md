@@ -19,7 +19,7 @@
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart"/></code>
 <code><img height="32" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"/></code>
-<code><img height="32" src="[https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png](https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png)" alt="C"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/linux.gif" alt="Linux"/></code>
 
 
