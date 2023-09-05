@@ -8,7 +8,7 @@
 
 ----
 
-[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/b4f06200-397a-45d5-ab7d-7b2dee9e4e1b.svg)](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/b4f06200-397a-45d5-ab7d-7b2dee9e4e1b)
+[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097.svg)](https://wakatime.com/@591a17b4-1079-44b2-88c8-b4a2e91b5097)
 
 ## 🚀 Minhas Skills
 
