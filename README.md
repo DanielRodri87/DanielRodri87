@@ -8,7 +8,8 @@
 
 ----
 
-[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/1eb8926f-010a-4283-aa2c-726943e0da0c.svg)](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/1eb8926f-010a-4283-aa2c-726943e0da0c)
+[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/927681f9-c869-4fdb-b861-6836cdde5e30.svg)](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097/project/927681f9-c869-4fdb-b861-6836cdde5e30)
+
 ## 🚀 Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
