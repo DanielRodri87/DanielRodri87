@@ -2,7 +2,7 @@
 
 > Técnico em informática para internet - IFPI CAPAU;
 
-> Atualmente cursando o 1º período de Sistemas de Informação - UFPI CSHNB
+> Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
 
 🔭 Atualmente estudando a linguagem C - Projetos e Desafios do Beecrowd
 
