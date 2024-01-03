@@ -1,12 +1,16 @@
-﻿# Hi, I'm <span style="opacity:0" id="fade-in">Daniel!</span>👋
+﻿## Olá, meu nome é <strong>Daniel!</strong>👋
 
-Técnico em informática para internet - IFPI CAPAU;
+> Técnico em informática para internet - IFPI CAPAU;
 
-Currently in the 2nd semester of Information Systems - UFPI CSHNB
+> Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
 
-🔭 Currently delving into the C language and Django Framework
+🔭 Atualmente me aprofundando na linguagem C e no Framework Django
 
-## 🚀 What I've Studied
+----
+
+[![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097.svg)](https://wakatime.com/@591a17b4-1079-44b2-88c8-b4a2e91b5097)
+
+## 🚀 O que eu já estudei
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -20,34 +24,23 @@ Currently in the 2nd semester of Information Systems - UFPI CSHNB
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode"/></code>
 
+
 ---
 
-## GitHub Stats
-
+## Informações sobre minha conta GitHub
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private=true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt="Daniel Rodrigues Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private-true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt=Daniel Rodrigues Github Stats" />
+<img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=596087&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
 
+---
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
-<script>
-  // Fade in effect for the name
-  let fadeInElement = document.getElementById("fade-in");
-  fadeInElement.style.opacity = 0;
 
-  let fadeInInterval = setInterval(function () {
-    if (fadeInElement.style.opacity < 1) {
-      fadeInElement.style.opacity = parseFloat(fadeInElement.style.opacity) + 0.1;
-    } else {
-      clearInterval(fadeInInterval);
-    }
-  }, 200);
-</script>
+
