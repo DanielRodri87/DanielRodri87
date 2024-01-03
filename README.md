@@ -8,17 +8,7 @@ Currently in the 2nd semester of Information Systems - UFPI CSHNB
 
 ## 🚀 What I've Studied
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="Dart"/></code>
-<code><img height="32" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C"/></code>
-<code><img height="32" src="https://logospng.org/download/linux/linux-512.png" alt="Linux"/></code>
-<code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Vscode"/></code>
+<!-- suas tecnologias -->
 
 ---
 
@@ -38,16 +28,17 @@ Currently in the 2nd semester of Information Systems - UFPI CSHNB
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
 
-<script>
-  // Fade in effect for the name
-  let fadeInElement = document.getElementById("fade-in");
-  fadeInElement.style.opacity = 0;
+<style>
+  #fade-in {
+    animation: fadeIn 2s ease-in-out;
+  }
 
-  let fadeInInterval = setInterval(function () {
-    if (fadeInElement.style.opacity < 1) {
-      fadeInElement.style.opacity = parseFloat(fadeInElement.style.opacity) + 0.1;
-    } else {
-      clearInterval(fadeInInterval);
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
     }
-  }, 200);
-</script>
+    to {
+      opacity: 1;
+    }
+  }
+</style>
