@@ -40,10 +40,12 @@
 
 ---
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielRodri87&label=Profile%20Views&color=0D68A1&style=flat" alt="Profile Views Counter" />
 </p>
 
+
+---
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D68A1&height=120&section=footer"/>
