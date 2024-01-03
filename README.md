@@ -1,12 +1,12 @@
-﻿# Olá, eu sou Daniel! 👋
+﻿# Hi, I'm <span style="opacity:0" id="fade-in">Daniel!</span>👋
 
 Técnico em informática para internet - IFPI CAPAU;
 
-Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
+Currently in the 2nd semester of Information Systems - UFPI CSHNB
 
-🔭 Atualmente me aprofundando na linguagem C e no Framework Django
+🔭 Currently delving into the C language and Django Framework
 
-## 🚀 O que eu já estudei
+## 🚀 What I've Studied
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
@@ -22,7 +22,7 @@ Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
 
 ---
 
-## Informações sobre minha conta GitHub
+## GitHub Stats
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private=true&hide_border=true&title_color=596087&icon_color=596087&text_color=ffffff&bg_color=0d1117" alt="Daniel Rodrigues Github Stats" />
@@ -34,6 +34,20 @@ Atualmente cursando o 2º período de Sistemas de Informação - UFPI CSHNB
 ---
 
 <p align="center"> 
-  Visitas<br>
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
 </p>
+
+<script>
+  // Fade in effect for the name
+  let fadeInElement = document.getElementById("fade-in");
+  fadeInElement.style.opacity = 0;
+
+  let fadeInInterval = setInterval(function () {
+    if (fadeInElement.style.opacity < 1) {
+      fadeInElement.style.opacity = parseFloat(fadeInElement.style.opacity) + 0.1;
+    } else {
+      clearInterval(fadeInInterval);
+    }
+  }, 200);
+</script>
