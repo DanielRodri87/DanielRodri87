@@ -35,9 +35,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=0d1117&color=ffffff&line=596087&point=596087&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-![Snake animation](https://github.com/DanielRodri87/DanielRodri87/blob/output/snake.svg)
 
 ---
 <p align="center"> 
