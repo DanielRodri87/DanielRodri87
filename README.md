@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=0D68A1&vCenter=true&center=true&width=1000&lines=Daniel+Rodrigues;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
-**> Computer Technician in Internet Computing - IFPI CAPAU;**
+> **Computer Technician in Internet Computing - IFPI CAPAU;**
 
-**> Currently studying the 2nd semester of Information Systems - UFPI CSHNB**
+> **Currently studying the 2nd semester of Information Systems - UFPI CSHNB**
 
 **🔭 Currently diving into the C language and Django Framework**
 
