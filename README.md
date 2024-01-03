@@ -1,4 +1,6 @@
-﻿## Olá, meu nome é <strong>Daniel!</strong>👋
+﻿<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=596087&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=596087&vCenter=true&center=true&width=1000&lines=Daniel+Rodrigues;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
 
 > Técnico em informática para internet - IFPI CAPAU;
 
@@ -43,4 +45,5 @@
 </p>
 
 
-
+---
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=596087&height=120&section=footer"/>
