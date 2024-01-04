@@ -48,8 +48,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=0d1117&color=ffffff&line=0D68A1&point=0D68A1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
+<!-- 
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
@@ -62,7 +61,7 @@
       src="https://github-profile-trophy.vercel.app/?username=DanielRodri87&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
-</p>
+</p> -->
 
 
 ---
