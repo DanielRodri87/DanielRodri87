@@ -69,17 +69,10 @@
 
 ---
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter with Icon -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DanielRodri87&label=Profile%20Views&color=6E92D2&style=flat" alt="Profile Views Counter" />
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/DanielRodri87/count.svg" alt="Profile Views Counter" />
-</p>
-
-<p align="center">
-  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FDanielRodri87%2F" alt="Hits" />
+  <img src="https://img.shields.io/badge/🌟-Stars-6E92D2.svg" alt="Stars Icon" />
 </p>
 
 ---
