@@ -48,7 +48,12 @@
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=6E92D2&text_color=ffffff&bg_color=0d1117" />
 </div>
 
+---
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=0d1117&color=ffffff&line=6E92D2&point=6E92D2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
 
 <!-- 
 ### 🏆 GitHub Profile Trophy
