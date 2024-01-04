@@ -75,21 +75,6 @@
   <img src="https://img.shields.io/badge/🌟-Stars-6E92D2.svg" alt="Stars Icon" />
 </p>
 
-<!-- Profile Card -->
-<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
-  <img src="https://i.pinimg.com/originals/cd/42/2d/cd422dac78882ab9eb6f14a99d959cfe.jpg" alt="Daniel Rodrigues de Sousa" width="200" height="200" style="border-radius: 50%;" />
-
-  <h3 style="color: #6E92D2;">Nome: Daniel Rodrigues de Sousa</h3>
-  <p style="color: #6E92D2;">Instituição: UFPI</p>
-  <p>
-    <a href="https://www.instagram.com/daniel_rodrigues1221/" target="_blank" style="color: #6E92D2; text-decoration: none;">Instagram</a> |
-    <a href="https://www.linkedin.com/in/daniel-rodrigues-a05185214/" target="_blank" style="color: #6E92D2; text-decoration: none;">LinkedIn</a> |
-    E-mail: osmbomosm@gmail.com
-  </p>
-</div>
-
-
-
 ---
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=footer"/>
