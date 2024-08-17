@@ -34,13 +34,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/591a17b4-1079-44b2-88c8-b4a2e91b5097.svg)](https://wakatime.com/@591a17b4-1079-44b2-88c8-b4a2e91b5097)
   <img src="https://komarev.com/ghpvc/?username=DanielRodri87&label=Profile%20Views&color=6E92D2&style=flat" alt="Profile Views Counter">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=591a17b4-1079-44b2-88c8-b4a2e91b5097&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=6E92D2&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
