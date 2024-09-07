@@ -5,9 +5,9 @@
 
 > **Computer Technician in Internet Computing - IFPI CAPAU;**
 
-> **Currently studying the 2nd semester of Information Systems - UFPI CSHNB**
+> **Currently studying the 4nd semester of Information Systems - UFPI CSHNB**
 
-**🔭 Currently diving into the C language and Django Framework**
+**🔭 I'm interested in Computer Vision and Artificial Intelligence**
 
 ----
 <!-- Skills Section -->
