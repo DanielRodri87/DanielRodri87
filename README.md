@@ -5,7 +5,7 @@
 
 > **Computer Technician in Internet Computing - IFPI CAPAU;**
 
-> **Currently studying the 4nd semester of Information Systems - UFPI CSHNB**
+> **Currently studying the 5nd semester of Information Systems - UFPI CSHNB**
 
 **🔭 I'm interested in Computer Vision and Artificial Intelligence**
 
