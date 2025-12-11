@@ -5,7 +5,7 @@
 
 > **Computer Technician in Internet Computing - IFPI CAPAU;**
 
-> **Currently studying the 5nd semester of Information Systems - UFPI CSHNB**
+> **Currently studying the 7nd semester of Information Systems - UFPI CSHNB**
 
 **🔭 I'm interested in Computer Vision and Artificial Intelligence**
 
@@ -65,3 +65,4 @@
 
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6E92D2&height=120&section=footer"/>
+
