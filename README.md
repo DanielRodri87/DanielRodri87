@@ -43,16 +43,14 @@
 
 ## 📊 Analytics & Stats
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=e8f5e8&bg_color=080c08" alt="Daniel Rodrigues Github Stats" />
-  <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=00ff41&text_color=e8f5e8&bg_color=080c08" alt="Top Langs" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielRodri87&show_icons=true&count_private=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=ffffff&bg_color=0d1117" alt="Daniel Rodrigues Github Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRodri87&layout=compact&hide_border=true&title_color=00ff41&text_color=ffffff&bg_color=0d1117" alt="Top Langs" width="300" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=080c08&color=e8f5e8&line=00ff41&point=00cc33&area=true&hide_border=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielRodri87&bg_color=0d1117&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
 
 <br>
 
